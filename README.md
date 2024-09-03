@@ -19,3 +19,7 @@ A repository with all the basic apps needed in a smartphone being open source an
 - Weather (coming soon)
 - Notes (coming soon)
 - Browser (coming soon)
+- Photo Gallery (coming soon)
+- Music (coming soon)
+- Radio (coming soon)
+- Clock (coming soon)
