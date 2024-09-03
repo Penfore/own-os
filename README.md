@@ -5,8 +5,6 @@ A repository with all the basic apps needed in a smartphone being open source an
 > This is not an operating system!
 
 ## Apps
-> [!NOTE]  
-> Apps are not displayed by order of priority.
 
 - Browser (coming soon)
 - Calculator (coming soon)
