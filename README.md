@@ -22,3 +22,4 @@ A repository with all the basic apps needed in a smartphone being open source an
 - Music (coming soon)
 - Radio (coming soon)
 - Clock (coming soon)
+- File Manager (coming soon)
