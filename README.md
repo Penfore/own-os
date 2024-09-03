@@ -1,5 +1,5 @@
 # ownOS
-A repository with all the basic apps needed in a smartphone being open source.
+A repository with all the basic apps needed in a smartphone being open source and built with Flutter.
 
 > [!IMPORTANT]  
 > This is not an operating system!
